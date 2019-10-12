@@ -1,0 +1,89 @@
+{
+  "configuration": [
+    {
+      "name": "1",
+      "device": "1",
+      "msgWelcome": "1",
+      "emailUrl": "",
+      "landingPageBG": "https://mdbootstrap.com/img/Photos/Slides/2.jpg",
+      "voteQuestion": "",
+      "logo": "https://mdbootstrap.com/img/Photos/Slides/2.jpg",
+      "footerText": "",
+      "id": 1,
+      "bEnableFavs": false,
+      "bEnableSession": false,
+      "bAllowVoting": false,
+      "bApplied": false,
+      "bStats": false,
+      "bAllowAnonUsers": false,
+      "statsUrl": "",
+      "appBackground": "https://mdbootstrap.com/img/Photos/Slides/2.jpg",
+      "medias": [
+        {
+          "id": 1,
+          "title": "tree's",
+          "friendlyName": "rrr"
+        },
+        {
+          "id": 2,
+          "title": "fire's",
+          "friendlyName": "rrrg"
+        }
+      ]
+    }
+  ],
+  "tag": [
+    {
+      "title": "bikaz41",
+      "bgColor": "#008000",
+      "bMaster": false,
+      "id": 3
+    },
+    {
+      "title": "7th",
+      "bgColor": "#8000ff",
+      "bMaster": false,
+      "id": 4
+    },
+    {
+      "title": "a",
+      "bgColor": "#996fabff",
+      "bMaster": false,
+      "id": 5
+    },
+    {
+      "title": "a",
+      "bgColor": "#58b90dff",
+      "bMaster": false,
+      "id": 6
+    }
+  ],
+  "media": [
+    {
+      "title": "tree",
+      "friendlyName": "",
+      "pictUrl": "https://mdbootstrap.com/img/Photos/Slides/2.jpg",
+      "description": "",
+      "fileUrls": "",
+      "externalUrl": "",
+      "bConfidential": false,
+      "bFav": false,
+      "fileType": "",
+      "tags": "",
+      "id": 1
+    },
+    {
+      "title": "fire",
+      "friendlyName": "qqq",
+      "pictUrl": "https://mdbootstrap.com/img/Photos/Slides/2.jpg",
+      "description": "",
+      "fileUrls": "",
+      "externalUrl": "",
+      "bConfidential": false,
+      "bFav": false,
+      "fileType": "",
+      "tags": "",
+      "id": 2
+    }
+  ]
+}
